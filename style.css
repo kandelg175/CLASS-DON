@@ -2,6 +2,12 @@
    CLASS FRIENDS WEBSITE
    CSS ONLY
    ========================================= */
+.home {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .person-page {
     background-image: var(--person-photo);
     background-size: cover;
